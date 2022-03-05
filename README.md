@@ -1,7 +1,7 @@
 # python-microblog
 This repository contains code for simple microblog web app using Flask and Python. 
 
-HTML and CSS can be found in the static and templates folders
+HTML and CSS can be found in the provided folders
 
 The app is hosted on Heroku cloud server 
 
