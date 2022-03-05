@@ -1,7 +1,9 @@
 # python-microblog
-This repository contains code for simple microblog web app using Flask and Python. The app is hosted on Heroku cloud server 
+This repository contains code for simple microblog web app using Flask and Python. 
 
 HTML and CSS can be found in the static and templates folders
+
+The app is hosted on Heroku cloud server 
 
 You can visit the website [here](https://chatchanan-microblog-app.herokuapp.com/)
 
